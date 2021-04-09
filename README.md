@@ -4,7 +4,7 @@ My simple project that I created by using API from OpenWeatherMap
 
 ## Programming Languages
 
-- Html, CSS and JS
+- HTML, CSS and JS
 - ReactJS
 
 ## Components
