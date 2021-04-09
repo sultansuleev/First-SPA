@@ -17,7 +17,7 @@ My simple project that I created by using API from OpenWeatherMap
 
 - `git clone` the repository or download a .zip file using the download button.
 - In the project folder, run `npm install` to install dependencies.
-- Then either use `npm start` in the terminal/command line or in Visual Studio with `Shift + F10` to build and run the project.
+- Then either use `npm start` in the terminal/command line or in WebStorm with `Shift + F10` to build and run the project.
 
 ## Author
 
