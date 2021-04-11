@@ -1,7 +1,8 @@
 
 # WeatherApp
-My simple project that I created by using API from OpenWeatherMap\
+My simple project that I created by using API from OpenWeatherMap.\
 I created this project when I asked myself how Web Application can be real application as itself. So, first of all I decided to learn how to work with API, so I used as example OpenWeatherMap's API and made this app.  
+Just type city's name in the input field and submit it.
 
 ## Programming Languages
 
